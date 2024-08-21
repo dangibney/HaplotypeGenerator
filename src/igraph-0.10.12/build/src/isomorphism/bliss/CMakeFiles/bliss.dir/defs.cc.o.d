@@ -1,0 +1,22 @@
+src/isomorphism/bliss/CMakeFiles/bliss.dir/defs.cc.o: \
+ /home/dan/Downloads/igraph-0.10.12/src/isomorphism/bliss/defs.cc \
+ /usr/include/stdc-predef.h \
+ /home/dan/Downloads/igraph-0.10.12/include/igraph_error.h \
+ /home/dan/Downloads/igraph-0.10.12/include/igraph_decls.h \
+ /home/dan/Downloads/igraph-0.10.12/build/include/igraph_export.h \
+ /home/dan/Downloads/igraph-0.10.12/build/include/igraph_config.h \
+ /home/dan/Downloads/igraph-0.10.12/include/igraph_decls.h \
+ /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
+ /home/dan/Downloads/igraph-0.10.12/src/isomorphism/bliss/defs.hh \
+ /usr/include/c++/13/cassert \
+ /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
+ /usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \
+ /usr/include/features.h /usr/include/features-time64.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/bits/timesize.h \
+ /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/long-double.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /usr/include/x86_64-linux-gnu/c++/13/bits/cpu_defines.h \
+ /usr/include/assert.h /usr/include/c++/13/cstdarg
